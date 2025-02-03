@@ -26,7 +26,8 @@ PROBLEM STATEMENT
 
 -we have been able to put in place numbers of products that have almost reach expiration date for a discount.
 
-![dahelimage jpg2](https://github.com/user-attachments/assets/c3c34e8b-4a3a-435a-9585-5cf7c637574d)
+![image](https://github.com/user-attachments/assets/30dc6474-9902-45a8-8388-a51266636001)
+
 
 
 
