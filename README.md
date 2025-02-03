@@ -2,7 +2,7 @@ Superstore-AnalysiS
 
 This is the survey of a supermarket in Nigeria
 
-####![](chy2.jpg)
+![](chy2.jpg)
 
 INTRODUCTION
 
