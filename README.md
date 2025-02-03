@@ -1,9 +1,8 @@
-# Superstore-Analysis
-
-
-![](chy2.jpg)
+# Superstore-AnalysiS
 
 ####This is the survey of a supermarket in Nigeria
+
+![](chy2.jpg)
 
 #INTRODUCTION
 
