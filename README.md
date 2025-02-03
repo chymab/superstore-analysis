@@ -34,7 +34,15 @@ DATA ANALYSIS
 
 dirty data              clean data
 
-:-----------------:/:----------------:
+:-----------------:------------------:
+
+#RECOMMENDATION
+
+-From the record gathered,it can be deduced that buying products that will expire in three years or more is better inorder to have enough time to sell out the whole products before its expiration.
+-Also,new products should not be purchased in bulk until consumers have been familiar with it.
+-companies should be made to give enough products that will serve as awareness to customers inorder to boost the speed of sales of new products.
+
+    
 
 
 
