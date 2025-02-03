@@ -1,4 +1,7 @@
 # Superstore-Analysis
+
+
+![]
 ####This is the survey of a supermarket in Nigeria
 
 #INTRODUCTION
