@@ -17,3 +17,13 @@ PROBLEM STATEMENT
 -To determine the number of customers that purchased a particular product for one month
 
 -To keep track of the highest products demanded in the last six months
+
+#DATA SOURCE
+
+-we've known  how to record the products in the different branches to make it easier
+
+-we have already done an all round survey of the products in the stores and recorded them
+
+-we have been able to put in place numbers of products that have almost reach expiration date for a discount
+
+![]
