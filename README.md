@@ -1,4 +1,4 @@
-Superstore-AnalysiS
+![364](https://github.com/user-attachments/assets/951c8751-9ded-453d-adc5-f68e016ba441)![364](https://github.com/user-attachments/assets/1cd9a30e-7424-4386-aed5-8ecd2666440f)![364](https://github.com/user-attachments/assets/db1a39e1-28fc-4123-a355-efe84e019e1c)Superstore-Analysis
 
 This is the survey of a supermarket in Nigeria
 
@@ -31,6 +31,12 @@ PROBLEM STATEMENT
 
 
 DATA ANALYSIS
+
+dirty data              clean data
+
+:-----------------:/:----------------:
+
+
 
 
 
