@@ -2,7 +2,6 @@ SUPERSTORE-ANALYSIS
 
 This is the survey of a supermarket in Nigeria
 
-![image](https://github.com/chymab/superstore-analysis/blob/main/sales%20dashboard.png)
 
 
 INTRODUCTION
@@ -27,13 +26,16 @@ DATA SOURCE
 
 -we have been able to put in place numbers of products that have almost reach expiration date for a discount.
 
-DATA ANALYSIS
+#DATA ANALYSIS
 
-|               profit                                                                          sales                                     |
+ANALYSIS OF THE PROFITS MADE FROM SALES
+![](https://github.com/chymab/superstore-analysis/blob/main/profit%20dasboard.png) 
 
-|:----------------------------------------------------------------------------------: | : ----------------------------------------------: |                                     
+ANALYSIS OF SALES ITSELF
+ ![](https://github.com/chymab/superstore-analysis/blob/main/sales%20dashboard2.png) 
 
-| ![](https://github.com/chymab/superstore-analysis/blob/main/profit%20dasboard.png)  |    ![](https://github.com/chymab/superstore-analysis/blob/main/sales%20dashboard2.png) |
+ 
+![image](https://github.com/chymab/superstore-analysis/blob/main/sales%20dashboard.png)
 
 
 
