@@ -31,7 +31,7 @@ DATA ANALYSIS
 
 |               profit                                                                |          sales                                                                       |
 
-|-----------------------------------------------------------------------------------: | :-----------------------------------------------                                     |
+|:----------------------------------------------------------------------------------: | :----------------------------------------------:                                     |
 
 | ![](https://github.com/chymab/superstore-analysis/blob/main/profit%20dasboard.png)  |  ![](https://github.com/chymab/superstore-analysis/blob/main/sales%20dashboard2.png) |
 
