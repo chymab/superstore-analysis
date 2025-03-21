@@ -29,7 +29,11 @@ DATA SOURCE
 
 DATA ANALYSIS
 
-| ![image](https://github.com/chymab/superstore-analysis/blob/main/profit%20dasboard.png) | 
+|               profit                                                                    |         sales                                   |
+
+|-----------------------------------------------------------------------------------------|-------------------------------------------------|
+
+| ![image](https://github.com/chymab/superstore-analysis/blob/main/profit%20dasboard.png) |  ![image](https://github.com/chymab/superstore-analysis/blob/main/sales%20dashboard2.png) |
 
 
 
