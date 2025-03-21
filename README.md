@@ -5,6 +5,8 @@ This is the survey of a supermarket in Nigeria
 ![](https://github.com/chymab/superstore-analysis/blob/main/SUPERSTORE1.png)
 
 
+![](https://github.com/chymab/superstore-analysis/blob/main/SUPERSTORE2.png)
+
 
 
 INTRODUCTION
