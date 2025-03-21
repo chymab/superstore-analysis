@@ -2,7 +2,9 @@ SUPERSTORE-ANALYSIS
 
 This is the survey of a supermarket in Nigeria
 
-![](chy2.jpg)
+![image](https://github.com/chymab/superstore-analysis/blob/main/profit%20dasboard.png)
+![image]
+
 
 INTRODUCTION
 
