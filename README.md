@@ -11,25 +11,35 @@ This is the survey of a supermarket in Nigeria
 
 INTRODUCTION
 
-This project was done in a supermarket in Nigeria to analyse the number of goods purchased,how many that expired in the last one month and the ones that will be auctioned to retailers.
+This project was done in a supermarket in Nigeria to analyse the profit and loss of the supermarket.
 
 PROBLEM STATEMENT
 
--To determine the number of expired products in the last one month
+-To determine the number of how much profits were made overtime.
 
--To reccord the discounts placed on old products
-
--To determine the number of customers that purchased a particular product for one month
+-To record the discounts placed on old products
 
 -To keep track of the highest products demanded in the last six months
 
+-To know the manufacturer that made the highest sales and profit,the region were sales were higher and lower.
+
+-To determine the top five sales within the year.
+
+-To determine the top ten manufacturers that made the lowest sales
+
+-To know the states with the highest profit.
+
+
 DATA SOURCE
 
--we've known  how to record the products in the different branches to make it easier
+This data was gotten online from Vivek Chowdhury(an analyst),retouched in excel and organised in tableau by me.
 
--we have already done an all round survey of the products in the stores and recorded them
+-i was able  to record the products in the different branches to make it easier using tableau.
 
--we have been able to put in place numbers of products that have almost reach expiration date for a discount.
+-An all round survey of the products were done  in the stores and records taken.
+
+-i was able to put in place numbers of products that have the most and lowest sales within the year.
+
 
 #DATA ANALYSIS
 
@@ -43,11 +53,9 @@ ANALYSIS OF SALES ITSELF
 ![image](https://github.com/chymab/superstore-analysis/blob/main/sales%20dashboard.png)
 
 
-
-
 RECOMMENDATION
 
--From the record gathered,it can be deduced that buying products that will expire in three years or more is better inorder to have enough time to sell out the whole products before its expiration.
+-From the record gathered,i recommend getting more products from the manufacturers whose products are in higher demand because it shows how original there products are or how pocket friendly it is too.
 
 -Also,new products should not be purchased in bulk until consumers have been familiar with it.
 
