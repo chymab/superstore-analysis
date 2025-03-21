@@ -41,7 +41,7 @@ This data was gotten online from Vivek Chowdhury(an analyst),retouched in excel 
 -i was able to put in place numbers of products that have the most and lowest sales within the year.
 
 
-#DATA ANALYSIS
+DATA ANALYSIS
 
 ANALYSIS OF THE PROFITS MADE FROM SALES
 ![](https://github.com/chymab/superstore-analysis/blob/main/profit%20dasboard.png) 
