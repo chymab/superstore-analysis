@@ -2,6 +2,9 @@ SUPERSTORE-ANALYSIS
 
 This is the survey of a supermarket in Nigeria
 
+![](https://github.com/chymab/superstore-analysis/blob/main/SUPERSTORE1.png)
+
+
 
 
 INTRODUCTION
