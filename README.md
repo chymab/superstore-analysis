@@ -2,8 +2,7 @@ SUPERSTORE-ANALYSIS
 
 This is the survey of a supermarket in Nigeria
 
-![image](https://github.com/chymab/superstore-analysis/blob/main/profit%20dasboard.png)
-![image]
+
 
 
 INTRODUCTION
@@ -28,15 +27,12 @@ DATA SOURCE
 
 -we have been able to put in place numbers of products that have almost reach expiration date for a discount.
 
-![image](https://github.com/user-attachments/assets/30dc6474-9902-45a8-8388-a51266636001)
-
-
-
 DATA ANALYSIS
 
-dirty data              clean data
+| ![image](https://github.com/chymab/superstore-analysis/blob/main/profit%20dasboard.png) | 
 
-:-----------------:------------------:
+
+
 
 RECOMMENDATION
 
